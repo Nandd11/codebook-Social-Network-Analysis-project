@@ -1,0 +1,69 @@
+{
+  "users": [
+    {
+      "id": "u1",
+      "name": "Nand",
+      "friends": [
+        "u2",
+        "u3",
+        "u4"
+      ],
+      "pages": [
+        "Tech",
+        "Cricket",
+        "AI"
+      ]
+    },
+    {
+      "id": "u2",
+      "name": "Ravi",
+      "friends": [
+        "u1",
+        "u3"
+      ],
+      "pages": [
+        "Tech",
+        "Fitness",
+        "AI"
+      ]
+    },
+    {
+      "id": "u3",
+      "name": "Amit",
+      "friends": [
+        "u1",
+        "u2",
+        "u5"
+      ],
+      "pages": [
+        "Business",
+        "Cricket"
+      ]
+    },
+    {
+      "id": "u4",
+      "name": "Karan",
+      "friends": [
+        "u1",
+        "u5"
+      ],
+      "pages": [
+        "Fitness",
+        "Music"
+      ]
+    },
+    {
+      "id": "u5",
+      "name": "Neel",
+      "friends": [
+        "u3",
+        "u4"
+      ],
+      "pages": [
+        "Business",
+        "AI",
+        "Music"
+      ]
+    }
+  ]
+}
